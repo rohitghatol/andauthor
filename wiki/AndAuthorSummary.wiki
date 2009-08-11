@@ -9,3 +9,24 @@ AndAndroid is an attempt to test out how PowerPoint editing capaibilities can be
 = Details =
 
 Here are couple of screen shot of AndAndroid Project:
+
+= AndAndroid when launched =
+http://andauthor.googlecode.com/svn/trunk/AndAuthor/screenshots/AndAuthor-1.png
+
+= AndAndroid - Box moved else where =
+http://andauthor.googlecode.com/svn/trunk/AndAuthor/screenshots/AndAuthor-2.png
+
+= AndAndroid - Small line moved =
+http://andauthor.googlecode.com/svn/trunk/AndAuthor/screenshots/AndAuthor-3.png
+
+= AndAndroid - Small line lowered edge rotated =
+http://andauthor.googlecode.com/svn/trunk/AndAuthor/screenshots/AndAuthor-4.png
+
+= AndAndroid - Large line moved =
+http://andauthor.googlecode.com/svn/trunk/AndAuthor/screenshots/AndAuthor-6.png
+
+= AndAndroid - Box Resized Vertically =
+http://andauthor.googlecode.com/svn/trunk/AndAuthor/screenshots/AndAuthor-8.png
+
+= AndAndroid - Box Resized Horizontally =
+http://andauthor.googlecode.com/svn/trunk/AndAuthor/screenshots/AndAuthor-10.png
