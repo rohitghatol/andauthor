@@ -1,0 +1,11 @@
+#summary This page mentions basic jest behind AndAndroid - An Android Authoring Tool
+#labels Featured
+
+= Introduction =
+
+AndAndroid is an attempt to test out how PowerPoint editing capaibilities can be done on android. The basic requirements include ability to add styled text, lines, boxes and circles. 
+
+
+= Details =
+
+Here are couple of screen shot of AndAndroid Project:
